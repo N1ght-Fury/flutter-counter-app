@@ -1,7 +1,7 @@
 # flutter-counter-app
 Counter app made with flutter
 
-![Apphttps://raw.githubusercontent.com/N1ght-Fury/flutter-counter-app/master/App.png)
+![App]https://raw.githubusercontent.com/N1ght-Fury/flutter-counter-app/master/App.png)
 
 # TODO's
 - Fix errors or remake everything related to database
